@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: ee0f98277ce234f7eb8928861123761f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: beetle5_0
+    21300002: beetle5_1
+    21300004: beetle5_2
+    21300006: beetle5_3
+    21300008: beetle5_4
+    21300010: beetle5_5
+    21300012: beetle5_6
+    21300014: beetle5_7
+    21300016: beetle5_8
+    21300018: beetle5_9
+    21300020: beetle5_10
+    21300022: beetle5_11
+    21300024: beetle5_12
+    21300026: beetle5_13
+    21300028: beetle5_14
+    21300030: beetle5_15
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beetle5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b4d565f393242a0b245a2a3d7938b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bffa9261babf41fe82fc7aa870974b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e022e6ba7f5ff4ff4894157db7a16118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef300ba6341f4e21bf4f603062b104f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d9235cb9d5e4432b2012fe05c8e89b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e773d121c849b9af2dc960c82f5b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0635f99406c6c4d9cbd71c79b647a3d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772ab4d9e922e4483893bbe81617a7d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ac00df374c04f8c9c0c582bae121fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b10825b58b734f4cb3d95dc1136723c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672d2f6d3c74945a785201c3caaca7a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9651f242c9456405f9ad9979f2f0d883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754c55b17955348c6b9220d4b92b872b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a3ee008e27244d09687538e2cfbc8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3778dcf6c224cb097ca32182394575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle5_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15030fc5277b64b7dbecdd735e26b4d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1c729eb531504ce188072c4f1d38f14
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

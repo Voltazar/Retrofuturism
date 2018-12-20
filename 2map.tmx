@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="left-down" width="5" height="15" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="6">
+ <tileset firstgid="1" source="roguelikeSheet_transparent.tsx"/>
+ <tileset firstgid="1768" source="meme.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="5" height="15">
+  <data encoding="csv">
+2640,2640,2531,2640,2640,
+402,403,916,403,404,
+402,403,916,403,404,
+402,403,916,403,404,
+402,403,916,403,404,
+402,403,916,403,404,
+402,403,916,403,404,
+402,403,916,403,404,
+402,403,916,403,404,
+402,403,916,403,404,
+402,403,916,403,404,
+402,403,916,403,404,
+402,403,916,403,404,
+402,403,403,403,404,
+459,460,460,460,461
+</data>
+ </layer>
+ <objectgroup id="3" name="Object Layer 1">
+  <object id="1" x="-1.93761" y="-3.22935" width="32.2935" height="6.4587"/>
+  <object id="2" x="49.0861" y="-3.22935" width="30.3559" height="7.10457"/>
+  <object id="3" x="-2.58348" y="0" width="5.81283" height="240.264"/>
+  <object id="4" x="0.64587" y="235.742" width="79.442" height="6.4587"/>
+  <object id="5" x="74.275" y="-2.58348" width="7.10457" height="244.785"/>
+ </objectgroup>
+</map>
